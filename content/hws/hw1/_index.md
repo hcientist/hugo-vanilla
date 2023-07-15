@@ -15,7 +15,7 @@ type: docs
 ---
 # Homework 1
 
-![Duke-n-Donuts](Duke-n-Donuts_v1.png)
+![Duke-n-Donuts](hw1/Duke-n-Donuts_v1.png)
 
 ## Learning Objectives
 
@@ -50,7 +50,7 @@ You must write the `DonutPricer` class.
 The following UML class diagram provides an overview of the attributes
 and methods in this class (which must be in the default package).
 
-![Class Diagram](DonutPricer.png)
+![Class Diagram](hw1/DonutPricer.png)
 
 ### Detailed Design Specifications
 
@@ -74,7 +74,7 @@ the `DonutPricer` class has already been written. It is named
 `DonutPricerTest` and the source code (i.e., the `.java` file) is
 available at:
 
-[`DonutPricerTest.java`](DonutPricerTest.java)
+[`DonutPricerTest.java`](hw1/DonutPricerTest.java)
 
 
 ## Submission
