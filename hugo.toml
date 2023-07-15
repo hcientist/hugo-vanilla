@@ -1,5 +1,8 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'ananke'
 staticDir = ['static', 'content/hws/hw1/hw1']
+
+[module]
+[[module.imports]]
+  path = 'github.com/theNewDynamic/gohugo-theme-ananke'
