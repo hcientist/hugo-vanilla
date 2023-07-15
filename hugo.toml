@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = '/hugo-vanilla/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
